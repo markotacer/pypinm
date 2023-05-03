@@ -1,0 +1,281 @@
+
+\documentclass[11pt,fleqn]{book} % Default font size and left-justified equations
+\input{preamble}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\pdfsuppresswarningpagegroup=1
+\begin{document}
+
+\let\cleardoublepage\clearpage
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+%--------------------------------------------------------------------------
+
+%	TITLE PAGE
+%--------------------------------------------------------------------------
+
+
+\begingroup
+\thispagestyle{empty}
+%\AddToShipoutPicture*{\put(0,0){\includegraphics[scale=1.25]{v}}} % Image background
+\centering
+\vspace*{5cm}
+\par\normalfont\fontsize{35}{35}\sffamily\selectfont
+\textbf{FOTONIKA}
+{\LARGE }\par % Book title
+\vspace*{1cm}
+%{\LARGE Učno gradivo za študente \\ Fakultete za fiziko
+%\\ 
+%Univerze v Ljubljani\\}\par % Author name
+\vspace*{1cm}
+%{\LARGE \textcolor{red}{Delovna verzija}\\}\par
+\vspace*{8cm}
+{\Large Martin ČOPIČ \\ Mojca VILFAN \\}\par % Author name
+\endgroup
+
+%--------------------------------------------------------------------
+%	COPYRIGHT PAGE
+%-------------------------------------------------------------------
+
+\newpage
+~\vfill
+\thispagestyle{empty}
+
+% Copyright \copyright\ 2014 Andrea Hidalgo\\ % Copyright notice
+FOTONIKA \\
+
+Martin Čopič in Mojca Vilfan\\
+{\it Fakulteta za matematiko in fiziko\\
+Univerza v Ljubljani}\\
+in\\
+{\it Institut ``Jožef Stefan'', Ljubljana}\\
+ 
+ Recenzija: Nataša Vaupotič in Rok Petkovšek \\% Recenzent
+
+ Risbe in diagrami: Mojca Vilfan in Andrej Petelin\\ % Risbe in diagrami
+ 
+ Oblikovanje, postavitev in prelom: Mojca Vilfan \\ %Design
+
+ Besedilo je bilo jezikovno pregledano.\\
+ 
+ Naslovne slike poglavij: Mojca Vilfan, Martin Rigler (str.~121 in 201), Andrej Petelin (str.~37),
+Vojna mornarica Združenih držav Amerike, U.\ S.\ Navy (str.~93), NASA (str.~175) in Irena Drevenšek (str.~229)\\ % Fotografije
+
+ \textit{\textcopyright  
+Kopiranje in razmnoževanje besedila ali njegovih delov ter slik je 
+dovoljeno samo z odobritvijo avtorjev knjige.} \\% Printing/edition date
+
+ \textsc{Ljubljana, 2020}\\
+
+%-------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%--------------------------------------------------------------------
+
+\chapterimage{Lit.jpg} % heading image
+
+\pagestyle{empty} % No headers
+
+\renewcommand\contentsname{Kazalo}
+\renewcommand{\bibname}{Bibliographie}
+\setcounter{tocdepth}{1}
+\tableofcontents% Print the table of contents itself
+
+%\cleardoublepage % Forces the first chapter to start on an odd page so it's on 
+
+\pagestyle{fancy} % Print headers again
+
+
+%---------
+%	PREDGOVOR
+%-------------------------------------------------------------------------------
+
+\chapterimage{slike/Nebo.jpg} % Chapter heading image
+
+\chapter*{Predgovor}
+\vskip2truecm
+Fotonika je veda o svetlobi. Obsega izredno široka področja nastanka svetlobe
+v svetlobnih virih, predvsem laserjih, razširjanja in modulacije svetlobe,
+njenega zaznavanja in uporabe v različne namene. V zadnjih 
+desetletjih je fotonika doživela izreden razcvet v raziskavah in 
+tehnološki uporabi.
+
+Pričujoča knjiga nudi obširen vpogled v najpomembnejše pojave v fotoniki.
+Po kratki ponovitvi splošne optike so opisane lastnosti laserske svetlobe
+in pojasnjeno delovanje laserjev. V nadaljevanju obravnavamo prenos
+svetlobe po optičnih vlaknih, detekcijo svetlobe, kjer se osredotočimo 
+predvsem na danes najbolj razširjene polprevodniške detektorje, in 
+modulacijo laserske svetlobe, ki je nujno potrebna za prenos signalov
+v modernih optičnih komunikacijah. Knjiga se zaključi s podrobno obravnavo 
+nelinearnih optičnih pojavov. 
+
+Knjiga je primerna za vse, ki jih področje fotonike zanima, 
+vendar se od bralca pričakuje poznavanje osnov optike in nekaterih 
+zahtevnejših matematičnih prijemov. Raziskovalci s področja optike 
+-- in tudi študenti fizike, ki si želijo poglobljenega znanja fotonike -- 
+bodo v knjigi našli veliko zanimivih pojavov in primerov, ki so podani tako opisno kot 
+računsko. Matematično zahtevnejša poglavja so označena z zvezdico.
+
+Za pomoč pri pripravi se najlepše zahvaljujeva prof. dr. Ireni Drevenšek Olenik, ki je 
+kot dolgoletna predavateljica predmeta Fotonika na Fakulteti za matematiko Univerze v Ljubljani
+znatno pripomogla k oblikovanju te knjige, dr. Andreju Petelinu za sodelovanje pri pripravi ter 
+ostalim sodelavcem z Odseka za kompleksne snovi Instituta ``Jožef Stefan'' za vse vsebinske pripombe
+in komentarje.
+
+\vspace{1em}
+
+Ljubljana, 2020
+
+\hfill Martin Čopič in Mojca Vilfan
+
+
+\cleardoublepage
+\thispagestyle{empty}
+\mbox{}
+\cleardoublepage
+%-------------------------------------------------------------------------------
+%	CHAPTER 1
+%-------------------------------------------------------------------------------
+
+\input{Chapter_01_Osnove}
+%Final
+
+%-------------------------------------------------------------------------------
+%	CHAPTER 2
+%-------------------------------------------------------------------------------
+
+\input{Chapter_02_Koherenca}
+%Final
+
+%-------------------------------------------------------------------------------
+%	CHAPTER 3
+%-------------------------------------------------------------------------------
+
+\input{Chapter_03_Snopi}
+%Final
+
+%-------------------------------------------------------------------------------
+%	CHAPTER 4
+%-------------------------------------------------------------------------------
+
+\input{Chapter_04_Resonatorji}
+%Final
+
+%-------------------------------------------------------------------------------
+%	CHAPTER 5
+%-------------------------------------------------------------------------------
+
+\input{Chapter_05_Interakcija}
+%Final
+
+%-------------------------------------------------------------------------------
+%	CHAPTER 6
+%-------------------------------------------------------------------------------
+
+\input{Chapter_06_Laser}
+%v delu
+
+%-------------------------------------------------------------------------------
+%	CHAPTER 7
+%-------------------------------------------------------------------------------
+
+
+\input{Chapter_07_Primeri}
+%Končano
+
+%-------------------------------------------------------------------------------
+%	CHAPTER 8
+%-------------------------------------------------------------------------------
+
+\input{Chapter_10_Vlakna}
+%Končano
+
+%-------------------------------------------------------------------------------
+%	CHAPTER 9
+%-------------------------------------------------------------------------------
+
+\input{Chapter_11_Detektorji}
+
+%Final
+%-------------------------------------------------------------------------------
+%	CHAPTER 10
+%-------------------------------------------------------------------------------
+
+\input{Chapter_09_Modulacija}
+%Final
+% -------------------------------------------------------------------------------
+% 	CHAPTER 11
+% -------------------------------------------------------------------------------
+
+\input{Chapter_08_NelinearnaOptika}
+%Končano
+
+\newpage
+% \chapterimage{Lit.jpg} % Chapter heading image
+\thispagestyle{plain}
+\vglue1truemm
+\section*{\LARGE{Recenziji}}
+\vskip1truecm
+V monografiji avtorja obravnavata izbrane vsebine s področja fotonike. 
+Delo nagovarja tako raziskovalce področja kot tiste, ki v svet fotonike 
+šele vstopajo. Monografija na strnjen, a kljub temu poglobljen način 
+obravnava ključne fizikalne vsebine, ki so potrebne za temeljno razumevanje 
+področja, hkrati pa omogočajo nadaljnje delo na številnih področjih fotonike,
+ki jih pričujoče delo ne vsebuje.
+
+Na temo fotonike lahko v tujih jezikih najdemo številne monografije, ki se lotevajo različnih vsebin, saj je področje izjemno široko. Značilnost pričujoče monografije je, da z osnovnimi vsebinami, kot so razširjanje svetlobe skozi snov, polarizacija elektromagnetnega valovanja, lom, odboj in uklon, opravi že v prvem poglavju, ki je namenjeno osvežitvi osnovnih pojmov. Knjigo naj zato v roke vzamejo tisti, ki so z osnovami teorije elektromagnetnega polja in valovne optike že dobro podkovani. Že v naslednjem poglavju namreč avtorja obravnavata koherenco in nato koherentne snope svetlobe, predvsem osnovni Gaussov snop, ošvrkneta pa tudi snope višjih redov. Pri obravnavi optičnih resonatorjev se lotita tudi zahtevnih vsebin, na primer iskanja električnega polja v nestabilnih resonatorjih z uklonskim integralom in sklopitve resonatorja z okolico ali drugim resonatorjem. Nato se posvetita interakciji svetlobe s snovjo in podrobno obravnavata optično črpanje trinivojskega sistema, ponudita tudi kvantnomehansko izpeljavo verjetnosti za prehod in obravnavata Rabijeve oscilacije v dvonivojskih sistemih. Osnova fotonike so seveda laserji. Monografija podrobno obravnava ojačanje svetlobe v laserjih, spektralno širino izsevane svetlobe, stabilizacijo frekvence laserja, stacionarno in nestacionarno delovanje laserja, doseganje kratkih laserskih sunkov s preklopom dobrote ter aktivnim in pasivnim uklepanjem faz, v posebnem poglavju pa avtorja obravnavata tudi nekaj najpomembnejših vrst laserjev.
+
+Najbolj znana in razširjena uporaba laserjev je nedvomno za prenos informacije po optičnih vlaknih. Reševanje Maxwellovih enačb v omejeni geometriji je vedno izziv, a avtorja suvereno peljeta bralca skozi izpeljave rodov v vlaknih s stopničastim in paraboličnim profilom lomnega količnika. Obravnavata tudi izgube v vlaknih, podaljšanje curka zaradi disperzije in možnosti za njeno kompenzacijo z uklonskima mrežicama in s fazno samomodulacijo. Ne izogneta se niti kvantni obravnavi sklopitve svetlobe v optične vodnike ter čelne in vzdolžne sklopitve dveh vlaken. Za prenos informacij je treba svetlobo modulirati, zato avtorja podrobneje obravnavata modulacijo svetlobe z elektro-optičnim in elasto-optičnim pojavom, na koncu pa tudi detektirati, kjer največ pozornosti namenita polprevodniškim kvantnim detektorjem.
+
+Velike jakosti električnega polja v laserski svetlobi so omogočile opazovanje nelinearnega odziva snovi. Področju nelinearne optike je posvečeno obširno poglavje, ki je dober preplet nizanja ključnih nelinearnih pojavov in poglobljene obravnave nekaterih od njih, kot na primer optično frekvenčno podvajanje tako za ravne kot Gaussove snope, optični Kerrov pojav, samozbiranje, krajevni in optični solitoni, optična fazna konjugacija in stimulirano Ramanovo sipanje.
+
+Knjigo odlikujejo dopadljive naslovne fotografije poglavij in slike, ki so odlična podpora tekstu, saj zanje res velja pogosto izrečeno, da ena dobra slika nadomesti tisoč besed. Tako raziskovalci kot študenti bodo nedvomno hvaležni tudi za številne izpeljave, prek katerih si bodo pridobili podrobno razumevanje in s tem zmožnost aplikacije na raziskovalne in strokovne probleme, s katerimi se srečujejo pri delu. Za izpeljave sta avtorja sicer izbrala dokaj nekonvencionalno pot pisanja več enačb v eni vrstici in nizanja izrazov z več enačaji, kar je na začetku morda moteče, a se bralec hitro privadi in je hvaležen za podajo korakov. Monografija vsebuje tudi številne naloge, v okviru katerih lahko bralec preveri svoje razumevanje ali dobi namige za izpeljave, ki so v besedilu izpuščene. Pravi užitek pa je tudi prebiranje ``zvezdic'', kjer avtorja obravnavano temo povežeta z analognimi temami ali izpeljavami na drugih področjih fizike, z drugimi temami v tej monografiji, ponudita pa tudi primere praktične uporabe. Monografijo odlikujeta lepo tekoča misel in izboren jezik, njen velik pomen pa je nedvomno tudi v utemeljitvi slovenskega izrazoslovja na področju fotonike.
+
+Maribor, 22. 5. 2020\hfill Prof. dr. Nataša Vaupotič  
+
+\vglue0.5truecm
+Knjiga Fotonika, napisana v slovenskem jeziku, avtorjev prof. dr.
+Martina Čopiča in doc. dr. Mojce Vilfan, predstavlja zanimivo znanstveno branje s področja fotonike s poglobljenim fizikalnim opisom. Številna poglavja fotonike so ustrezno obdelana, s čimer nudijo bralcu zelo dober vpogled v tematiko.
+
+Fotonika je znanstveno področje, ki se ukvarja z generacijo, detekcijo in spreminjanjem svetlobe, pri čemer se naslanja na številne linearne ali nelinarne fizikalne pojave -- od ojačevanja svetlobe do pretvorbe valovne dolžine. Knjiga se začne s poglavji, ki opisujejo elektromagnetno valovanje, koherenco, koherentne snope in optičnine resonatorje, v okviru katerih se osredotoči predvsem na Gasussove snope. Nadaljuje se z obravnavanjem interakcije svetlobe s snovjo in laserji. Po pregledu osnovnih tipov laserjev pridejo na vrsto optična vlakna, detekcija in modulacija svetlobe. Knjiga se zaključi s poglavjem o nelinarnih optičnih pojavih.
+
+Na področju fotonike delujejo številni slovenski raziskovalci, tako v večjih javnih institucijah, kot so Univerza v Ljubljani, Institut Jožef Stefan, Univerza v Mariboru in Univerza na Primorskem, kot tudi v nekaterih podjetjih, kot so Fotona, LPKF, Optotek, Lumentum, če naštejem samo največja. Ker knjiga med drugim predstavi praktično vsa pomembnejša področja fotonike, bo pomembna tako za raziskovalce v osnovnih in aplikativnih raziskavah kot za inženirje, ki jim bo lahko služila kot neke vrste poglobljen priročnik.
+
+Prav tako ne smemo spregledati pomena takšne publikacije s stališča jezika, saj uvaja številne marsikdaj težko prevedljive izraze s področja fotonike ter s tem bogati slovensko znanstveno in strokovno izrazoslovje ter s tem jezik kot tak.
+
+Ljubljana, 25. 5. 2020\hfill Izr. prof. dr. Rok Petkovšek 
+
+\newpage
+% \chapterimage{Lit.jpg} % Chapter heading image
+\thispagestyle{plain}
+\vglue1truemm
+\section*{\LARGE{Dodatna literatura}}
+\vskip1truecm
+\begin{itemize}
+\setlength\itemsep{0.5em}
+ \item A. Yariv in P. Yeh, {\it Photonics}, šesta izdaja, Oxford University Press (2007).
+ \item B. E. A. Saleh in M. C. Teich, {\it Fundamentals of Photonics}, druga izdaja, John Wiley \& Sons, Inc. (2007). 
+ \item G. A. Reider, {\it Photonics, An Introduction}, Springer (2016).
+ \item V. Degiorgio in I. Cristiani, {\it Photonics, A Short Course}, druga izdaja, Springer (2016).
+ \item W. T. Silfvast, {\it Laser Fundamentals}, druga izdaja, Cambridge University Press (2004). 
+ \item C. C. Davis, {\it Lasers and Electro-Optics}, Cambridge University Press (2006).
+ \item O. Svelto in D. C. Hanna, {\it Principles of Lasers}, peta izdaja, Springer (2010).
+ \item K. F. Renk, {\it Basics of Laser Physics}, druga izdaja, Springer (2017).
+ \item J. W. Goodman, {\it Statistical Optics}, druga izdaja, John Wiley \& Sons, Inc. (2015).
+ \item W. Demtr\"oder, {\it Laser Spectroscopy}, peta izdaja, Springer (2014).
+ \item A. Ghatak in K. Thyagarajan, {\it Introduction to Fiber Optics}, Cambridge University Press (1997).
+ \item G. H. Rieke, {\it Detection of Light}, druga izdaja, Cambridge University Press (2003).
+ \item G. New, {\it Introduction to Nonlinear Optics}, Cambridge University Press (2011).
+ \item R. W. Boyd, {\it Nonlinear Optics}, tretja izdaja, Academic Press (2008).
+\end{itemize}
+
+\cleardoublepage
+\thispagestyle{plain}
+\mbox{}
+\cleardoublepage
+\chapterimage{Lit.jpg}
+\printindex
+
+\end{document}

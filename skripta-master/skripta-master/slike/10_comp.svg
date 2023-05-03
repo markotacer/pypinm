@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="426.46869"
+   height="116.44565"
+   viewBox="0 0 22144.816 14556"
+   id="svg2"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="10_comp.svg">
+  <metadata
+     id="metadata178">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1622"
+     inkscape:window-height="805"
+     id="namedview176"
+     showgrid="false"
+     inkscape:zoom="1.518518"
+     inkscape:cx="396.44801"
+     inkscape:cy="16.472293"
+     inkscape:window-x="296"
+     inkscape:window-y="187"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs327">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6493"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6490"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <defs
+       id="defs6">
+      <pattern
+         id="tile1"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 -100 200 16"
+           id="path9" />
+        <path
+           d="M 0 -60 200 56"
+           id="path11" />
+        <path
+           d="M 0 -20 200 96"
+           id="path13" />
+        <path
+           d="M 0 20 200 136"
+           id="path15" />
+        <path
+           d="M 0 60 200 176"
+           id="path17" />
+        <path
+           d="M 0 100 200 216"
+           id="path19" />
+        <path
+           d="M 0 140 200 256"
+           id="path21" />
+        <path
+           d="M 0 180 200 296"
+           id="path23" />
+      </pattern>
+      <pattern
+         id="tile2"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 200 -100 0 16"
+           id="path26" />
+        <path
+           d="M 200 -60 0 56"
+           id="path28" />
+        <path
+           d="M 200 -20 0 96"
+           id="path30" />
+        <path
+           d="M 200 20 0 136"
+           id="path32" />
+        <path
+           d="M 200 60 0 176"
+           id="path34" />
+        <path
+           d="M 200 100 0 216"
+           id="path36" />
+        <path
+           d="M 200 140 0 256"
+           id="path38" />
+        <path
+           d="M 200 180 0 296"
+           id="path40" />
+      </pattern>
+      <pattern
+         id="tile3"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 -100 200 16"
+           id="path43" />
+        <path
+           d="M 200 -100 0 16"
+           id="path45" />
+        <path
+           d="M 0 -60 200 56"
+           id="path47" />
+        <path
+           d="M 200 -60 0 56"
+           id="path49" />
+        <path
+           d="M 0 -20 200 96"
+           id="path51" />
+        <path
+           d="M 200 -20 0 96"
+           id="path53" />
+        <path
+           d="M 0 20 200 136"
+           id="path55" />
+        <path
+           d="M 200 20 0 136"
+           id="path57" />
+        <path
+           d="M 0 60 200 176"
+           id="path59" />
+        <path
+           d="M 200 60 0 176"
+           id="path61" />
+        <path
+           d="M 0 100 200 216"
+           id="path63" />
+        <path
+           d="M 200 100 0 216"
+           id="path65" />
+        <path
+           d="M 0 140 200 256"
+           id="path67" />
+        <path
+           d="M 200 140 0 256"
+           id="path69" />
+        <path
+           d="M 0 180 200 296"
+           id="path71" />
+        <path
+           d="M 200 180 0 296"
+           id="path73" />
+      </pattern>
+      <pattern
+         id="tile4"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 100 0 200 100"
+           id="path76" />
+        <path
+           d="M 0 0 200 200"
+           id="path78" />
+        <path
+           d="M 0 100 100 200"
+           id="path80" />
+      </pattern>
+      <pattern
+         id="tile5"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 100 0 0 100"
+           id="path83" />
+        <path
+           d="M 200 0 0 200"
+           id="path85" />
+        <path
+           d="M 200 100 100 200"
+           id="path87" />
+      </pattern>
+      <pattern
+         id="tile6"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 100 0 200 100"
+           id="path90" />
+        <path
+           d="M 0 0 200 200"
+           id="path92" />
+        <path
+           d="M 0 100 100 200"
+           id="path94" />
+        <path
+           d="M 100 0 0 100"
+           id="path96" />
+        <path
+           d="M 200 0 0 200"
+           id="path98" />
+        <path
+           d="M 200 100 100 200"
+           id="path100" />
+      </pattern>
+      <pattern
+         id="tile7"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 0 0 50"
+           id="path103" />
+        <path
+           d="M 0 50 200 50"
+           id="path105" />
+        <path
+           d="M 100 50 100 150"
+           id="path107" />
+        <path
+           d="M 0 150 200 150"
+           id="path109" />
+        <path
+           d="M 0 150 0 200"
+           id="path111" />
+      </pattern>
+      <pattern
+         id="tile8"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 0 50 0"
+           id="path114" />
+        <path
+           d="M 50 0 50 200"
+           id="path116" />
+        <path
+           d="M 50 100 150 100"
+           id="path118" />
+        <path
+           d="M 150 0 150 200"
+           id="path120" />
+        <path
+           d="M 150 0 200 0"
+           id="path122" />
+      </pattern>
+      <pattern
+         id="tile9"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 50 200 50"
+           id="path125" />
+        <path
+           d="M 0 150 200 150"
+           id="path127" />
+      </pattern>
+      <pattern
+         id="tile10"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 50 0 50 200"
+           id="path130" />
+        <path
+           d="M 150 0 150 200"
+           id="path132" />
+      </pattern>
+      <pattern
+         id="tile11"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 50 200 50"
+           id="path135" />
+        <path
+           d="M 0 150 200 150"
+           id="path137" />
+        <path
+           d="M 50 0 50 200"
+           id="path139" />
+        <path
+           d="M 150 0 150 200"
+           id="path141" />
+      </pattern>
+      <pattern
+         id="tile12"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 0 25 50"
+           id="path144" />
+        <path
+           d="M 0 50 200 50"
+           id="path146" />
+        <path
+           d="M 100 50 125 150"
+           id="path148" />
+        <path
+           d="M 0 150 200 150"
+           id="path150" />
+        <path
+           d="M 0 150 25 200"
+           id="path152" />
+      </pattern>
+      <pattern
+         id="tile13"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 200 0 175 50"
+           id="path155" />
+        <path
+           d="M 0 50 200 50"
+           id="path157" />
+        <path
+           d="M 100 50 75 150"
+           id="path159" />
+        <path
+           d="M 0 150 200 150"
+           id="path161" />
+        <path
+           d="M 200 150 175 200"
+           id="path163" />
+      </pattern>
+      <pattern
+         id="tile14"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 0 50 25"
+           id="path166" />
+        <path
+           d="M 50 0 50 200"
+           id="path168" />
+        <path
+           d="M 50 100 150 125"
+           id="path170" />
+        <path
+           d="M 150 0 150 200"
+           id="path172" />
+        <path
+           d="M 150 0 200 25"
+           id="path174" />
+      </pattern>
+      <pattern
+         id="tile15"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 25 50 0"
+           id="path177" />
+        <path
+           d="M 50 0 50 200"
+           id="path179" />
+        <path
+           d="M 50 125 150 100"
+           id="path181" />
+        <path
+           d="M 150 0 150 200"
+           id="path183" />
+        <path
+           d="M 150 25 200 0"
+           id="path185" />
+      </pattern>
+      <pattern
+         id="tile16"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 50 A 50 50 0 1 0 100 50"
+           id="path188" />
+        <path
+           d="M 100 50 A 50 50 0 1 0 200 50"
+           id="path190" />
+        <path
+           d="M 50 100 A 50 50 0 1 0 150 100"
+           id="path192" />
+        <path
+           d="M 0 150 A 50 50 0 0 0 50 100"
+           id="path194" />
+        <path
+           d="M 150 100 A 50 50 0 1 0 200 50"
+           id="path196" />
+        <path
+           d="M 50 0 A 50 50 0 1 0 150 0"
+           id="path198" />
+        <path
+           d="M 150 0 A 50 50 0 0 0 200 50"
+           id="path200" />
+        <path
+           d="M 0 50 A 50 50 0 0 0 50 0"
+           id="path202" />
+        <path
+           d="M 0 150 A 50 50 0 1 0 100 150"
+           id="path204" />
+        <path
+           d="M 100 150 A 50 50 0 1 0 200 150"
+           id="path206" />
+      </pattern>
+      <pattern
+         id="tile17"
+         x="0"
+         y="0"
+         width="100"
+         height="100"
+         patternUnits="userSpaceOnUse">
+        <g
+           transform="scale(0.5)"
+           id="g209">
+          <path
+             d="M 0 50 A 50 50 0 1 0 100 50"
+             id="path211" />
+          <path
+             d="M 100 50 A 50 50 0 1 0 200 50"
+             id="path213" />
+          <path
+             d="M 50 100 A 50 50 0 1 0 150 100"
+             id="path215" />
+          <path
+             d="M 0 150 A 50 50 0 0 0 50 100"
+             id="path217" />
+          <path
+             d="M 150 100 A 50 50 0 1 0 200 50"
+             id="path219" />
+          <path
+             d="M 50 0 A 50 50 0 1 0 150 0"
+             id="path221" />
+          <path
+             d="M 150 0 A 50 50 0 0 0 200 50"
+             id="path223" />
+          <path
+             d="M 0 50 A 50 50 0 0 0 50 0"
+             id="path225" />
+          <path
+             d="M 0 150 A 50 50 0 1 0 100 150"
+             id="path227" />
+          <path
+             d="M 100 150 A 50 50 0 1 0 200 150"
+             id="path229" />
+        </g>
+      </pattern>
+      <pattern
+         id="tile18"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <circle
+           cx="100"
+           cy="100"
+           r="100"
+           id="circle232" />
+      </pattern>
+      <pattern
+         id="tile19"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 50 45 0 105 0 140 50 200 50 "
+           id="path235" />
+        <path
+           d="M 0 50 45 100 105 100 140 50 200 50"
+           id="path237" />
+        <path
+           d="M 0 150 45 100 105 100 140 150 200 150"
+           id="path239" />
+        <path
+           d="M 0 150 45 200 105 200 140 150 200 150"
+           id="path241" />
+      </pattern>
+      <pattern
+         id="tile20"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 70 65 0 140 0 200 70 "
+           id="path244" />
+        <path
+           d="M 0 70 0 130 65 200 140 200 200 130 200 70"
+           id="path246" />
+      </pattern>
+      <pattern
+         id="tile21"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 50 0 75 25 100 0 M 150 0 175 25 200 0"
+           id="path249" />
+        <path
+           d="M 0 50 25 25 75 75 125 25 175 75 200 50"
+           id="path251" />
+        <path
+           d="M 0 100 25 75 75 125 125 75 175 125 200 100"
+           id="path253" />
+        <path
+           d="M 0 150 25 125 75 175 125 125 175 175 200 150"
+           id="path255" />
+        <path
+           d="M 0 200 25 175 75 225 125 175 175 225 200 200"
+           id="path257" />
+      </pattern>
+      <pattern
+         id="tile22"
+         x="0"
+         y="0"
+         width="200"
+         height="200"
+         patternUnits="userSpaceOnUse">
+        <path
+           d="M 0 50 25 75 0 100 M 0 150 25 175 0 200"
+           id="path260" />
+        <path
+           d="M 50 0 25 25 75 75 25 125 75 175 50 200"
+           id="path262" />
+        <path
+           d="M 100 0 75 25 125 75 75 125 125 175 100 200"
+           id="path264" />
+        <path
+           d="M 150 0 125 25 175 75 125 125 175 175 150 200"
+           id="path266" />
+        <path
+           d="M 200 0 175 25 225 75 175 125 225 175 200 200"
+           id="path268" />
+      </pattern>
+    </defs>
+  </defs>
+  <g
+     id="g498">
+    <g
+       id="g240">
+      <path
+         inkscape:connector-curvature="0"
+         id="path270"
+         style="fill:#d40000;fill-opacity:1;stroke:#00b000;stroke-width:0"
+         d="m -12099.742,11434.252 h 816.175 v -1282.56 h -816.175 v 1282.56" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path272"
+         style="fill:#0000d4;fill-opacity:1;stroke:#00d400;stroke-width:0;stroke-opacity:1"
+         d="m -13924.726,11398.765 h 770.549 v -1160.893 h -770.549 v 1160.893" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path288"
+         style="fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-width:0;stroke-opacity:1"
+         d="m -13017.303,11434.252 h 745.202 v -1282.56 h -745.202 v 1282.56" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path302"
+         style="fill:none;stroke:#000000;stroke-width:125.00253296;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M -15546.934,10187.179 H 1374.7294" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path312"
+         style="fill:none;stroke:#000000;stroke-width:125.00253296;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M -15582.42,11363.281 H -688.51762" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path296"
+         style="fill:none;stroke:#00d400;stroke-width:208.96391296;stroke-opacity:1"
+         d="M -617.54662,11398.765 -7669.0836,4590.5598 H 8182.935" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path294"
+         style="fill:none;stroke:#00d400;stroke-width:208.96391296;stroke-opacity:1"
+         d="M 1374.7294,10237.872 -5676.8089,3429.6661 8223.49,3414.4578" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path270-9"
+         style="fill:#d40000;fill-opacity:1;stroke:#00b000;stroke-width:0"
+         d="m 6278.0922,6158.0544 h 816.174 V 4875.4935 h -816.174 v 1282.5609" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path272-1"
+         style="fill:#0000d4;fill-opacity:1;stroke:#00d400;stroke-width:0;stroke-opacity:1"
+         d="m 6278.0922,3095.743 h 770.549 V 1934.8492 h -770.549 V 3095.743" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path288-2"
+         style="fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-width:0;stroke-opacity:1"
+         d="m 6278.0922,4586.4341 h 745.202 V 3303.8732 h -745.202 v 1282.5609" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path292"
+         style="fill:none;stroke:#0000d4;stroke-width:208.96391296;stroke-opacity:1"
+         d="M -724.00362,11363.281 -5117.5031,3036.8774 8223.49,3095.0856"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path290"
+         style="fill:none;stroke:#0000d4;stroke-width:208.96391296;stroke-opacity:1"
+         d="M 1430.4924,10258.15 -3312.2563,2053.2335 8223.49,2025.442"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path300"
+         style="fill:none;stroke:#d40000;stroke-width:209.00424194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -725.97662,11371.447 -10845.275,6180.1985 8043.317,6199.1641"
+         sodipodi:nodetypes="ccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path298"
+         style="fill:none;stroke:#d40000;stroke-width:208.96391296;stroke-opacity:1"
+         d="M 1308.8264,10187.179 -8490.327,4879.5153 H 8294.462" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:125.00253296;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6111"
+         width="873.12238"
+         height="5791.7124"
+         x="7977.5146"
+         y="1063.8495" />
+      <g
+         id="g5334-4"
+         transform="rotate(149.61853,-2001.7769,6303.7621)">
+        <rect
+           transform="matrix(0.9999987,0.00161184,0.02844485,0.99959536,0,0)"
+           y="10802.043"
+           x="-6153.0698"
+           height="566.33203"
+           width="12798.723"
+           id="rect3677-7"
+           style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.83137255" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5330-8"
+           d="m -5848.2287,10872.236 12800.568,20.579"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:250.00505066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:500.01010459, 500.01010459;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         id="g5334-4-4"
+         transform="rotate(-30.381487,166.22761,10416.429)">
+        <rect
+           transform="matrix(0.9999987,0.00161184,0.02844485,0.99959536,0,0)"
+           y="10802.043"
+           x="-6153.0698"
+           height="566.33203"
+           width="12798.723"
+           id="rect3677-7-5"
+           style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.83137255" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5330-8-0"
+           d="m -5848.2287,10872.236 12800.568,20.579"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:250.00505066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:500.01010459, 500.01010459;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g388">
+      <g
+         id="g5334-4-3"
+         transform="rotate(149.61851,11688.917,9974.2331)">
+        <rect
+           transform="matrix(0.9999987,0.00161184,0.02844485,0.99959536,0,0)"
+           y="10802.043"
+           x="-6153.0698"
+           height="566.33203"
+           width="12798.723"
+           id="rect3677-7-6"
+           style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.83137255" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5330-8-1"
+           d="m -5848.2287,10872.236 12800.568,20.579"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:250.00505066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:500.01010459, 500.01010459;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         id="g5334-4-4-0"
+         transform="rotate(-30.381487,13684.409,-40005.906)">
+        <rect
+           transform="matrix(0.9999987,0.00161184,0.02844485,0.99959536,0,0)"
+           y="10802.043"
+           x="-6153.0698"
+           height="566.33203"
+           width="12798.723"
+           id="rect3677-7-5-6"
+           style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.83137255" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5330-8-0-3"
+           d="m -5848.2287,10872.236 12800.568,20.579"
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:250.00505066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:500.01010459, 500.01010459;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path312-2"
+         style="fill:none;stroke:#0000d4;stroke-width:125.00255585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 11840.801,11363.282 H 26734.706" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path292-1"
+         style="fill:none;stroke:#0000d4;stroke-width:208.96395874;stroke-opacity:0.88953457"
+         d="m 26699.219,11363.282 -2705.462,-9374.1521 13166.37,58.2081"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:125.00252533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:375.00757844, 375.00757844;stroke-dashoffset:0;stroke-opacity:0.83137255"
+         d="M 21957.584,3031.6682 27818.355,13473.024"
+         id="path4452"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:125.00255585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:375.00765719, 375.00765719;stroke-dashoffset:0;stroke-opacity:0.83137255"
+         d="M 26744.033,1913.7813 26725.781,11365.6"
+         id="path4452-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:125.00252533;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4583"
+         sodipodi:type="arc"
+         sodipodi:cx="12897.527"
+         sodipodi:cy="-25948.545"
+         sodipodi:rx="8170.1382"
+         sodipodi:ry="8170.1382"
+         sodipodi:start="2.6817971"
+         sodipodi:end="2.9209887"
+         d="m 5575.9132,-22322.924 a 8170.1382,8170.1382 0 0 1 -650.5246,-1837.84"
+         transform="rotate(86.588173)"
+         inkscape:transform-center-x="15808.144"
+         inkscape:transform-center-y="24404.669"
+         sodipodi:open="true" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:125.00254822;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4583-9"
+         sodipodi:type="arc"
+         sodipodi:cx="12915.653"
+         sodipodi:cy="-25981.477"
+         sodipodi:rx="3081.4038"
+         sodipodi:ry="3081.7305"
+         sodipodi:start="1.6335312"
+         sodipodi:end="2.6621953"
+         d="m 12722.469,-22905.808 a 3081.4038,3081.7305 0 0 1 -2540.862,-1654.237"
+         transform="matrix(0.05951876,0.99822719,-0.99822794,0.05950611,0,0)"
+         inkscape:transform-center-x="5962.7455"
+         inkscape:transform-center-y="9204.327"
+         sodipodi:open="true" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="26094.623"
+     y="13857.503"
+     id="text3521"><tspan
+       sodipodi:role="line"
+       id="tspan3523"
+       x="26094.623"
+       y="13857.503"
+       style="font-size:1875.0378418px;line-height:1.25">$A$</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="26700.484"
+     y="1480.8451"
+     id="text3521-3"><tspan
+       sodipodi:role="line"
+       id="tspan3523-6"
+       x="26700.484"
+       y="1480.8451"
+       style="font-size:1875.03820801px;line-height:1.25">$B$</tspan></text>
+  <g
+     id="g3520">
+    <text
+       id="text6153"
+       y="1658.2394"
+       x="-15661.173"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:1875.03796387px;line-height:1.25"
+         y="1658.2394"
+         x="-15661.173"
+         id="tspan6155"
+         sodipodi:role="line">a)</tspan></text>
+    <text
+       id="text6153-3"
+       y="1658.239"
+       x="11197.8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:1875.03796387px;line-height:1.25"
+         y="1658.239"
+         x="11197.8"
+         id="tspan6155-1"
+         sodipodi:role="line">b)</tspan></text>
+    <text
+       id="text5253"
+       y="10947.096"
+       x="24485.758"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:1875.0378418px;line-height:1.25"
+         y="10947.096"
+         x="24485.758"
+         id="tspan5255"
+         sodipodi:role="line">$\alpha$</tspan></text>
+    <text
+       id="text5253-9"
+       y="7913.9077"
+       x="22637.305"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:1875.03820801px;line-height:1.25"
+         y="7913.9077"
+         x="22637.305"
+         id="tspan5255-3"
+         sodipodi:role="line">$L$</tspan></text>
+    <text
+       id="text5253-1"
+       y="6143.7988"
+       x="23815.32"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Nimbus Sans L';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:1875.03820801px;line-height:1.25"
+         y="6143.7988"
+         x="23815.32"
+         id="tspan5255-9"
+         sodipodi:role="line">$\beta$</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+
+\usepackage[top=3cm,bottom=3cm,left=3.2cm,right=3.2cm,headsep=10pt,a4paper]{geometry} % Page margins
+
+\usepackage{xcolor,lipsum} % Required for specifying colors by name
+\definecolor{ocre}{RGB}{0,56,102} 
+\definecolor{lightgray}{RGB}{229,229,229} 
+% Font Settings
+\usepackage{avant} % Use the Avantgarde font for headings
+%\usepackage{times} % Use the Times font for headings
+\usepackage{mathptmx} % Use the Adobe Times Roman as the default text font together with math symbols from the Sym­bol, Chancery and Com­puter Modern fonts
+
+\usepackage{microtype} % Slightly tweak font spacing for aesthetics
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+\usepackage[unicode]{hyperref}
+\usepackage{empheq}
+\usepackage{color}
+\usepackage{caption}
+\usepackage{afterpage}
+\newcommand{\boxeq}[2]{\begin{empheq}[box=\colorbox{ocre!30}]{align}\label{#1}#2\end{empheq}}
+\newcommand*{\xdash}[1][8em]{\rule[0.5ex]{#1}{0.55pt}}
+\usepackage{makeidx}
+\makeindex
+
+% MATHS PACKAGE
+\usepackage{amsmath,tikz}
+\usetikzlibrary{matrix}
+\newcommand*{\horzbar}{\rule[0.05ex]{2.5ex}{0.5pt}}
+\usepackage{calc}
+\usepackage{siunitx}
+
+% VERBATIM PACKAGE
+\usepackage{verbatim}
+\usepackage{wrapfig}
+
+\input{structure} % Insert the commands.tex file which contains the majority of the structure behind the template
+
+\newcommand{\beq}{\begin{equation}}
+\newcommand{\eeq}{\end{equation}}
+\renewcommand{\arraystretch}{1.5}
+
+\newcommand{\usk}{\mbox()}
+
+\usepackage{subfig}
+\usepackage{parskip}
+
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+%Copy-paste iz stare skripte.
+
+%\usepackage[tikz]{bclogo}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\definecolor{darkblue}{rgb}{0,0,0.5} 
+\usepackage{transparent}
+\usepackage{import}
+\graphicspath{{./slike/}}

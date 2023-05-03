@@ -1,0 +1,536 @@
+\indexentry{Električno polje!jakost|hyperpage}{6}
+\indexentry{Magnetno polje!gostota|hyperpage}{6}
+\indexentry{Električno polje!gostota|hyperpage}{6}
+\indexentry{Magnetno polje!jakost|hyperpage}{6}
+\indexentry{Maxwellove enačbe|hyperpage}{6}
+\indexentry{Električna polarizacija|hyperpage}{6}
+\indexentry{Magnetizacija|hyperpage}{6}
+\indexentry{Susceptibilnost!električna|hyperpage}{6}
+\indexentry{Susceptibilnost!magnetna|hyperpage}{6}
+\indexentry{Dielektričnost|hyperpage}{6}
+\indexentry{Magnetna permeabilnost|hyperpage}{6}
+\indexentry{Maxwellove enačbe!robni pogoji|hyperpage}{7}
+\indexentry{Valovna enačba|hyperpage}{7}
+\indexentry{Hitrost valovanja|hyperpage}{7}
+\indexentry{Lomni količnik|hyperpage}{7}
+\indexentry{Poyntingov vektor|hyperpage}{8}
+\indexentry{Gostota energijskega toka|hyperpage}{8}
+\indexentry{Gostota svetlobnega toka|hyperindexformat{\see {Gostota energijskega toka}}}{8}
+\indexentry{Poyntingov izrek|hyperpage}{8}
+\indexentry{Gostota energije|hyperpage}{8}
+\indexentry{Električno polje!jakost|hyperpage}{8}
+\indexentry{Magnetno polje!gostota|hyperpage}{8}
+\indexentry{Helmholtzeva enačba|hyperpage}{8}
+\indexentry{Valovno število|hyperpage}{8}
+\indexentry{Poyntingov vektor|hyperpage}{8}
+\indexentry{Ravni val|hyperpage}{9}
+\indexentry{Valovni vektor|hyperpage}{9}
+\indexentry{Gostota energije|hyperpage}{9}
+\indexentry{Gostota energijskega toka|hyperpage}{9}
+\indexentry{Intenziteta|hyperpage}{10}
+\indexentry{Polarizacija|hyperpage}{10}
+\indexentry{Polarizacija!eliptična|hyperpage}{10}
+\indexentry{Polarizacija!linearna|hyperpage}{10}
+\indexentry{Polarizacija!krožna|hyperpage}{10}
+\indexentry{Jonesov vektor|hyperpage}{10}
+\indexentry{Jonesova matrika|hyperpage}{10}
+\indexentry{Ploščica $\lambda/2$|hyperpage}{11}
+\indexentry{Ploščica $\lambda/4$|hyperpage}{11}
+\indexentry{Lomni zakon|hyperpage}{11}
+\indexentry{Polarizacija!TE|hyperpage}{12}
+\indexentry{Polarizacija!TM|hyperpage}{12}
+\indexentry{Fresnelove enačbe|hyperpage}{12}
+\indexentry{Brewstrov kot|hyperpage}{13}
+\indexentry{Brewstrovo okno|hyperpage}{13}
+\indexentry{Totalni odboj|hyperpage}{14}
+\indexentry{Evanescentno polje|hyperpage}{14}
+\indexentry{Uklon|hyperpage}{15}
+\indexentry{Infrardeče valovanje|hyperpage}{15}
+\indexentry{Kirchhoffov integral|hyperpage}{15}
+\indexentry{Fresnel-Kirchhoffov integral|hyperpage}{16}
+\indexentry{Huygensovo načelo|hyperpage}{16}
+\indexentry{Fresnelov uklon|hyperpage}{17}
+\indexentry{Fraunhoferjev uklon|hyperpage}{18}
+\indexentry{Fresnelovo število|hyperpage}{18}
+\indexentry{Dielektričnost|hyperpage}{19}
+\indexentry{Hitrost valovanja|hyperpage}{19}
+\indexentry{Električno polje!gostota|hyperpage}{19}
+\indexentry{Lomni količnik|hyperpage}{19}
+\indexentry{Dvolomnost!dvoosne snovi|hyperpage}{19}
+\indexentry{Dvolomnost!enoosne snovi|hyperpage}{19}
+\indexentry{Ploskev valovnega vektorja|hyperpage}{19}
+\indexentry{Polarizacija!eliptična|hyperpage}{19}
+\indexentry{Optična os|hyperpage}{20}
+\indexentry{Polarizacija|hyperpage}{20}
+\indexentry{Dvolomnost!enoosne snovi|hyperpage}{20}
+\indexentry{Lomni količnik!redni|hyperpage}{20}
+\indexentry{Lomni količnik!izredni|hyperpage}{20}
+\indexentry{Optična os|hyperpage}{20}
+\indexentry{Lomni količnik|hyperpage}{21}
+\indexentry{Električno polje!jakost|hyperpage}{21}
+\indexentry{Električno polje!gostota|hyperpage}{21}
+\indexentry{Valovni vektor|hyperpage}{21}
+\indexentry{Poyntingov vektor|hyperpage}{21}
+\indexentry{Lomni zakon|hyperpage}{21}
+\indexentry{Dvolomnost|hyperpage}{21}
+\indexentry{CaCO$_3$|hyperindexformat{\see {Kalcit}}}{22}
+\indexentry{BaTiO$_3$|hyperpage}{22}
+\indexentry{LiNbO$_3$|hyperpage}{22}
+\indexentry{KH$_2$PO$_4$|hyperindexformat{\see {KDP}}}{22}
+\indexentry{KDP|hyperpage}{22}
+\indexentry{Tekoči kristali|hyperpage}{22}
+\indexentry{Telur|hyperpage}{22}
+\indexentry{Tekoči kristali!5CB|hyperpage}{22}
+\indexentry{Kalcit|hyperpage}{23}
+\indexentry{Polarizacija|hyperpage}{23}
+\indexentry{Koherenca|hyperpage}{24}
+\indexentry{Interferenca|hyperpage}{24}
+\indexentry{Interferenca|hyperpage}{24}
+\indexentry{Youngov poskus|hyperpage}{24}
+\indexentry{Koherenca!časovna|hyperpage}{24}
+\indexentry{Koherenčni čas|hyperpage}{24}
+\indexentry{Koherenca!prostorska|hyperpage}{25}
+\indexentry{Koherenčna razdalja|hyperpage}{25}
+\indexentry{Ravni val|hyperpage}{25}
+\indexentry{Koherenca!časovna|hyperpage}{26}
+\indexentry{Michelsonov interferometer|hyperpage}{26}
+\indexentry{Interferenca|hyperpage}{27}
+\indexentry{Avtokorelacijska funkcija|hyperpage}{27}
+\indexentry{Koherenčni čas|hyperpage}{27}
+\indexentry{Koherenčna dolžina|hyperpage}{27}
+\indexentry{Spekter!Lorentzov|hyperpage}{28}
+\indexentry{Spekter!Gaussov|hyperpage}{28}
+\indexentry{Dopplerjeva razširitev|hyperpage}{28}
+\indexentry{Sevanje črnega telesa|hyperpage}{28}
+\indexentry{Svetleče diode|hyperpage}{28}
+\indexentry{Laser!vlakenski|hyperpage}{28}
+\indexentry{Intenziteta|hyperpage}{28}
+\indexentry{Spekter|hyperpage}{28}
+\indexentry{Wiener-Hinčinov izrek|hyperpage}{29}
+\indexentry{Koherenčni čas|hyperpage}{29}
+\indexentry{Spekter!Lorentzov|hyperpage}{30}
+\indexentry{Spekter!Gaussov|hyperpage}{30}
+\indexentry{Spekter!Lorentzov|hyperpage}{30}
+\indexentry{Sevanje črnega telesa|hyperpage}{31}
+\indexentry{Spekter!Planckov|hyperpage}{31}
+\indexentry{Fouriereva spektroskopija|hyperpage}{31}
+\indexentry{Avtokorelacijska funkcija|hyperpage}{31}
+\indexentry{Infrardeče valovanje|hyperpage}{31}
+\indexentry{FTIR|hyperpage}{31}
+\indexentry{Koherenca!prostorska|hyperpage}{31}
+\indexentry{Youngov poskus|hyperpage}{31}
+\indexentry{Interferenca|hyperpage}{31}
+\indexentry{Koherenčna razdalja|hyperpage}{32}
+\indexentry{Koherenčna ploskev|hyperpage}{32}
+\indexentry{Navzkrižna korelacijska funkcija|hyperpage}{32}
+\indexentry{van Cittert-Zernikov izrek|hyperpage}{33}
+\indexentry{Fraunhoferjev uklon|hyperpage}{33}
+\indexentry{Fresnelov uklon|hyperpage}{33}
+\indexentry{Koherenčna ploskev|hyperpage}{33}
+\indexentry{Interferenca|hyperpage}{34}
+\indexentry{Michelsonov interferometer|hyperpage}{34}
+\indexentry{Uklon|hyperpage}{36}
+\indexentry{Fraunhoferjev uklon|hyperpage}{36}
+\indexentry{Fresnelov uklon|hyperpage}{36}
+\indexentry{Območje bližnjega polja|hyperpage}{36}
+\indexentry{Helmholtzeva enačba|hyperpage}{37}
+\indexentry{Obosna valovna enačba|hyperpage}{37}
+\indexentry{Paraksialna enačba|hyperindexformat{\see{Obosna valovna enačba}}}{37}
+\indexentry{Schr\"odingerjeva enačba|hyperpage}{37}
+\indexentry{Ravni val|hyperpage}{37}
+\indexentry{Fresnelov uklon|hyperpage}{37}
+\indexentry{Fouriereva optika|hyperpage}{37}
+\indexentry{Gaussov snop|hyperpage}{38}
+\indexentry{Gaussov snop!polmer|hyperpage}{38}
+\indexentry{Gaussov snop!grlo|hyperpage}{39}
+\indexentry{Gaussov snop!bližnje polje|hyperpage}{39}
+\indexentry{Območje bližnjega polja|hyperpage}{39}
+\indexentry{Rayleighova dolžina|hyperpage}{39}
+\indexentry{Rayleighovo območje|hyperindexformat{\see{Območje bližnjega polja}}}{39}
+\indexentry{Gaussov snop!divergenca|hyperpage}{39}
+\indexentry{Faktor $M^2$|hyperpage}{39}
+\indexentry{Gaussov snop!krivinski radij|hyperpage}{40}
+\indexentry{Gaussov snop!faza|hyperpage}{41}
+\indexentry{Gouyeva faza|hyperpage}{41}
+\indexentry{Gaussov snop|hyperpage}{41}
+\indexentry{Gaussov snop!intenziteta|hyperpage}{41}
+\indexentry{Kompleksni krivinski radij|hyperpage}{41}
+\indexentry{Gaussov snop!kompleksna ukrivljenost|hyperpage}{41}
+\indexentry{Gaussov snop!kompleksni krivinski radij|hyperpage}{41}
+\indexentry{Kompleksna ukrivljenost|hyperpage}{41}
+\indexentry{TEM$_{00}$|hyperpage}{41}
+\indexentry{Hermite-Gaussovi snopi|hyperpage}{42}
+\indexentry{TEM$_{n,m}$|hyperpage}{42}
+\indexentry{Obosna valovna enačba|hyperpage}{42}
+\indexentry{Gouyeva faza|hyperpage}{42}
+\indexentry{Fresnelov uklon|hyperpage}{43}
+\indexentry{Fraunhoferjev uklon|hyperpage}{43}
+\indexentry{Laguerre-Gaussovi snopi|hyperpage}{43}
+\indexentry{Gouyeva faza|hyperpage}{43}
+\indexentry{Poyntingov vektor|hyperpage}{44}
+\indexentry{Tirna vrtilna količina|hyperpage}{44}
+\indexentry{Besslov snop|hyperpage}{44}
+\indexentry{Helmholtzeva enačba|hyperpage}{44}
+\indexentry{Besslov snop!divergenca|hyperpage}{44}
+\indexentry{Preslikava z lečo|hyperpage}{45}
+\indexentry{Laser!He-Ne|hyperpage}{47}
+\indexentry{Gaussov snop!grlo|hyperpage}{47}
+\indexentry{Matrike ABCD|hyperpage}{48}
+\indexentry{Matrike ABCD|hyperpage}{50}
+\indexentry{Resonator|hyperpage}{52}
+\indexentry{Stoječe valovanje|hyperpage}{52}
+\indexentry{Lastne frekvence resonatorja|hyperpage}{52}
+\indexentry{Fabry-Perotov interferometer|hyperpage}{52}
+\indexentry{Gostota stanj|hyperpage}{52}
+\indexentry{Dopplerjeva razširitev|hyperpage}{53}
+\indexentry{Resonator!odprti|hyperpage}{53}
+\indexentry{Valovni vektor|hyperpage}{53}
+\indexentry{Lastne frekvence resonatorja|hyperpage}{53}
+\indexentry{Stabilnost resonatorja|hyperpage}{54}
+\indexentry{Fresnelovo število|hyperpage}{54}
+\indexentry{Fabry-Perotov interferometer|hyperpage}{54}
+\indexentry{Resonator!planparalelni|hyperpage}{55}
+\indexentry{Obosna valovna enačba|hyperpage}{55}
+\indexentry{Gaussov snop|hyperpage}{55}
+\indexentry{Gaussov snop!krivinski radij|hyperpage}{56}
+\indexentry{Stabilnost resonatorja|hyperpage}{56}
+\indexentry{Resonator!simetrični|hyperpage}{56}
+\indexentry{Resonator!konfokalni|hyperpage}{56}
+\indexentry{Resonator!koncentrični|hyperpage}{56}
+\indexentry{Resonator!planparalelni|hyperpage}{56}
+\indexentry{Resonator!konfokalni|hyperpage}{57}
+\indexentry{Resonator!koncentrični|hyperpage}{57}
+\indexentry{Resonator!planparalelni|hyperpage}{57}
+\indexentry{Resonator!konfokalni|hyperpage}{57}
+\indexentry{Resonator!ciklični|hyperpage}{58}
+\indexentry{Laser!vlakenski|hyperpage}{58}
+\indexentry{Totalni odboj|hyperpage}{58}
+\indexentry{Braggov odboj|hyperpage}{58}
+\indexentry{Resonator!nestabilni|hyperpage}{58}
+\indexentry{Matrike ABCD|hyperpage}{59}
+\indexentry{Stabilnost resonatorja|hyperpage}{59}
+\indexentry{Lastne frekvence resonatorja|hyperpage}{60}
+\indexentry{Gouyeva faza|hyperpage}{60}
+\indexentry{Resonator!konfokalni|hyperpage}{60}
+\indexentry{Resonator!planparalelni|hyperpage}{61}
+\indexentry{Uklon|hyperpage}{61}
+\indexentry{Fresnelovo število|hyperpage}{61}
+\indexentry{Resonator!konfokalni|hyperpage}{61}
+\indexentry{Življenjski čas nihanj|hyperpage}{62}
+\indexentry{Izgube v resonatorju|hyperpage}{62}
+\indexentry{Spekter!Lorentzov|hyperpage}{62}
+\indexentry{Dobrota resonatorja|hyperpage}{62}
+\indexentry{Fabry-Perotov interferometer|hyperpage}{63}
+\indexentry{Uklon|hyperpage}{63}
+\indexentry{Kirchhoffov integral|hyperpage}{63}
+\indexentry{Resonator!konfokalni|hyperpage}{64}
+\indexentry{Hermite-Gaussovi snopi|hyperpage}{65}
+\indexentry{Sklopitev resonatorja!z okolico|hyperpage}{65}
+\indexentry{Stoječe valovanje|hyperpage}{65}
+\indexentry{Izgube v resonatorju|hyperpage}{66}
+\indexentry{Fabry-Perotov interferometer|hyperpage}{68}
+\indexentry{Sklopitev resonatorja!z resonatorjem|hyperpage}{69}
+\indexentry{Lastne frekvence resonatorja|hyperpage}{69}
+\indexentry{Kvantizacija polja|hyperpage}{70}
+\indexentry{Ravni val|hyperpage}{70}
+\indexentry{Stoječe valovanje|hyperpage}{70}
+\indexentry{Valovni vektor|hyperpage}{70}
+\indexentry{Valovno število|hyperpage}{70}
+\indexentry{Gostota stanj|hyperpage}{71}
+\indexentry{Električno polje!jakost|hyperpage}{71}
+\indexentry{Magnetno polje!gostota|hyperpage}{71}
+\indexentry{Hamiltonova funkcija|hyperpage}{72}
+\indexentry{Harmonski oscilator|hyperpage}{72}
+\indexentry{Foton|hyperpage}{72}
+\indexentry{Boltzmannova porazdelitev|hyperpage}{72}
+\indexentry{Sevanje črnega telesa|hyperpage}{72}
+\indexentry{Gostota energije|hyperpage}{73}
+\indexentry{Planckov zakon|hyperpage}{73}
+\indexentry{Spektralna gostota energije|hyperpage}{73}
+\indexentry{Spekter!Planckov|hyperpage}{73}
+\indexentry{Sevanje črnega telesa|hyperpage}{73}
+\indexentry{Dvonivojski sistem|hyperpage}{73}
+\indexentry{Absorpcija fotona|hyperpage}{74}
+\indexentry{Verjetnost za prehod|hyperpage}{74}
+\indexentry{Spektralna gostota energije|hyperpage}{74}
+\indexentry{Spontano sevanje|hyperpage}{74}
+\indexentry{Verjetnost za prehod|hyperpage}{74}
+\indexentry{Razpadni čas|hyperpage}{74}
+\indexentry{Spektralna črta|hyperpage}{74}
+\indexentry{Spekter!Lorentzov|hyperpage}{74}
+\indexentry{Stimulirano sevanje|hyperpage}{75}
+\indexentry{Spektralna gostota energije|hyperpage}{75}
+\indexentry{Gostota energije|hyperpage}{75}
+\indexentry{Einsteinovi koeficienti|hyperpage}{75}
+\indexentry{Einsteinovi koeficienti|hyperpage}{76}
+\indexentry{Zasedenost stanj|hyperpage}{76}
+\indexentry{Dvonivojski sistem|hyperpage}{76}
+\indexentry{Boltzmannova porazdelitev|hyperpage}{76}
+\indexentry{Spektralna gostota energije|hyperpage}{76}
+\indexentry{Absorpcija|hyperpage}{77}
+\indexentry{Presek za absorpcijo|hyperpage}{77}
+\indexentry{Absorpcijski koeficient|hyperpage}{78}
+\indexentry{Nasičena absorpcija|hyperpage}{78}
+\indexentry{Saturacijska gostota toka|hyperpage}{78}
+\indexentry{Absorpcijski koeficient|hyperpage}{79}
+\indexentry{Optično ojačevanje|hyperpage}{80}
+\indexentry{Obrnjena zasedenost|hyperpage}{80}
+\indexentry{Črpanje|hyperpage}{80}
+\indexentry{Laser!argonski|hyperpage}{80}
+\indexentry{Laser!He-Ne|hyperpage}{80}
+\indexentry{Laser!Nd:YAG|hyperpage}{80}
+\indexentry{Laser!Ti:safir|hyperpage}{80}
+\indexentry{Laser!polprevodniški|hyperpage}{80}
+\indexentry{Trinivojski sistem|hyperpage}{80}
+\indexentry{Štirinivojski sistem|hyperpage}{80}
+\indexentry{Spontano sevanje|hyperpage}{81}
+\indexentry{Stimulirano sevanje|hyperpage}{81}
+\indexentry{Zasedenost stanj|hyperpage}{81}
+\indexentry{Optično črpanje|hyperpage}{81}
+\indexentry{Obrnjena zasedenost|hyperpage}{81}
+\indexentry{Saturacijska gostota toka|hyperpage}{82}
+\indexentry{Koeficient ojačenja|hyperpage}{82}
+\indexentry{Presek za stimulirano sevanje|hyperpage}{83}
+\indexentry{Presek za absorpcijo|hyperpage}{83}
+\indexentry{Laser!He-Ne|hyperpage}{83}
+\indexentry{Laser!Nd:YAG|hyperpage}{83}
+\indexentry{Optično ojačevanje|hyperpage}{83}
+\indexentry{Spektralna črta!homogena razširitev|hyperpage}{83}
+\indexentry{Spekter!Lorentzov|hyperpage}{83}
+\indexentry{Spektralna črta!nehomogena razširitev|hyperpage}{83}
+\indexentry{Dopplerjeva razširitev|hyperpage}{83}
+\indexentry{Maxwellova porazdelitev|hyperpage}{84}
+\indexentry{Spekter!Gaussov|hyperpage}{84}
+\indexentry{Laser!He-Ne|hyperpage}{84}
+\indexentry{Laser!Nd:YAG|hyperpage}{84}
+\indexentry{Spekter!Voigtov|hyperpage}{84}
+\indexentry{Nasičena absorpcija!nehomogeno razširjene črte|hyperpage}{84}
+\indexentry{Dvonivojski sistem|hyperpage}{84}
+\indexentry{Dopplerjeva razširitev|hyperpage}{84}
+\indexentry{Bennettova vdolbina|hyperpage}{85}
+\indexentry{Spektralna črta!homogena razširitev|hyperpage}{85}
+\indexentry{Absorpcijski koeficient|hyperpage}{85}
+\indexentry{Lambova vdolbina|hyperpage}{86}
+\indexentry{Verjetnost za prehod|hyperpage}{87}
+\indexentry{Einsteinovi koeficienti|hyperpage}{87}
+\indexentry{Kvantizacija polja|hyperpage}{87}
+\indexentry{Fermijevo zlato pravilo|hyperpage}{87}
+\indexentry{Dvonivojski sistem|hyperpage}{87}
+\indexentry{Harmonski oscilator|hyperpage}{88}
+\indexentry{Spontano sevanje|hyperpage}{89}
+\indexentry{Stimulirano sevanje|hyperpage}{89}
+\indexentry{Einsteinovi koeficienti|hyperpage}{89}
+\indexentry{Dvonivojski sistem|hyperpage}{90}
+\indexentry{Rabijeve oscilacije|hyperpage}{90}
+\indexentry{Semiklasični model|hyperpage}{90}
+\indexentry{Hamiltonova funkcija|hyperpage}{90}
+\indexentry{Schr\"odingerjeva enačba|hyperpage}{90}
+\indexentry{Rabijeva frekvenca|hyperpage}{90}
+\indexentry{Laser|hyperpage}{92}
+\indexentry{Spontano sevanje|hyperpage}{92}
+\indexentry{Optično ojačevanje|hyperpage}{92}
+\indexentry{Resonator|hyperpage}{92}
+\indexentry{Izgube v resonatorju|hyperpage}{92}
+\indexentry{Črpanje|hyperpage}{93}
+\indexentry{Izgube v resonatorju|hyperpage}{93}
+\indexentry{Stimulirano sevanje|hyperpage}{93}
+\indexentry{Saturacijska energija|hyperpage}{93}
+\indexentry{Prag delovanja laserja|hyperpage}{94}
+\indexentry{Izhodna moč laserja|hyperpage}{94}
+\indexentry{Zasedbene enačbe|hyperpage}{94}
+\indexentry{Trinivojski sistem|hyperpage}{94}
+\indexentry{Obrnjena zasedenost|hyperpage}{95}
+\indexentry{Izgube v resonatorju|hyperpage}{95}
+\indexentry{Življenjski čas nihanj|hyperpage}{95}
+\indexentry{Ojačenje s stimuliranim sevanjem|hyperindexformat{\see{Stimulirano sevanje}}}{95}
+\indexentry{Stimulirano sevanje|hyperpage}{95}
+\indexentry{Koeficient ojačenja|hyperpage}{95}
+\indexentry{Prag delovanja laserja|hyperpage}{96}
+\indexentry{Laser!polprevodniški|hyperpage}{96}
+\indexentry{Spektralna črta|hyperpage}{97}
+\indexentry{Stimulirano sevanje|hyperpage}{98}
+\indexentry{Spontano sevanje|hyperpage}{98}
+\indexentry{Laser!He-Ne|hyperpage}{99}
+\indexentry{Šum|hyperpage}{99}
+\indexentry{Laser!enofrekvenčni|hyperpage}{99}
+\indexentry{Koherenčna ploskev|hyperpage}{100}
+\indexentry{Svetilnost|hyperpage}{100}
+\indexentry{Svetlost|hyperpage}{100}
+\indexentry{Spektralna gostota moči|hyperpage}{100}
+\indexentry{Laser!He-Ne|hyperpage}{100}
+\indexentry{Nasičena absorpcija!{stabilizacija frekvence}|hyperpage}{101}
+\indexentry{Spektralna črta|hyperpage}{101}
+\indexentry{Fabry-Perotov interferometer|hyperpage}{101}
+\indexentry{Nasičena absorpcija|hyperpage}{101}
+\indexentry{Lambova vdolbina|hyperpage}{101}
+\indexentry{Laser!He-Ne|hyperpage}{102}
+\indexentry{Laser!večfrekvenčni|hyperpage}{102}
+\indexentry{Fabry-Perotov interferometer|hyperpage}{103}
+\indexentry{Relaksacijske oscilacije|hyperpage}{104}
+\indexentry{Relaksacijske oscilacije|hyperpage}{105}
+\indexentry{Sunkovni laser|hyperpage}{106}
+\indexentry{Sunkovni laser!{preklop črpanja}|hyperpage}{106}
+\indexentry{Črpanje|hyperpage}{106}
+\indexentry{Relaksacijske oscilacije|hyperpage}{106}
+\indexentry{Preklop dobrote|hyperindexformat{\see{Sunkovni laser}}}{106}
+\indexentry{Sunkovni laser!{preklop dobrote}|hyperpage}{106}
+\indexentry{Obrnjena zasedenost|hyperpage}{106}
+\indexentry{Izgube v resonatorju|hyperpage}{106}
+\indexentry{Sunkovni laser|hyperpage}{107}
+\indexentry{Dobrota resonatorja|hyperpage}{107}
+\indexentry{Izhodna moč laserja|hyperpage}{109}
+\indexentry{Uklepanje faz|hyperpage}{110}
+\indexentry{Sunkovni laser|hyperpage}{110}
+\indexentry{Izhodna moč laserja|hyperpage}{110}
+\indexentry{Laser!Ti:safir|hyperpage}{111}
+\indexentry{Uklepanje faz!aktivno|hyperpage}{111}
+\indexentry{Akusto-optični pojav|hyperpage}{112}
+\indexentry{Laser!Nd:YAG|hyperpage}{112}
+\indexentry{Uklepanje faz!pasivno|hyperpage}{112}
+\indexentry{Nasičena absorpcija|hyperpage}{112}
+\indexentry{Kerrov pojav!optični|hyperpage}{112}
+\indexentry{Laser!Ti:safir|hyperpage}{112}
+\indexentry{Frekvenčni glavnik|hyperpage}{113}
+\indexentry{Uklepanje faz|hyperpage}{113}
+\indexentry{Sunkovni laser|hyperpage}{113}
+\indexentry{Spekter|hyperpage}{113}
+\indexentry{Gouyeva faza|hyperpage}{113}
+\indexentry{Disperzija|hyperpage}{113}
+\indexentry{Definicija metra|hyperpage}{114}
+\indexentry{Heterodinska detekcija|hyperpage}{114}
+\indexentry{Laser!He-Ne|hyperpage}{114}
+\indexentry{Semiklasični model|hyperpage}{114}
+\indexentry{Zasedbene enačbe|hyperpage}{114}
+\indexentry{Črpanje|hyperpage}{115}
+\indexentry{Maxwell-Blochove enačbe|hyperpage}{116}
+\indexentry{Valovna enačba|hyperpage}{116}
+\indexentry{Laser!enofrekvenčni|hyperpage}{117}
+\indexentry{Laserski sistemi|hyperpage}{120}
+\indexentry{Laser|hyperpage}{120}
+\indexentry{Laser!He-Ne|hyperpage}{121}
+\indexentry{Energijski nivoji!He-Ne|hyperpage}{121}
+\indexentry{Trinivojski sistem|hyperpage}{121}
+\indexentry{Infrardeče valovanje|hyperpage}{121}
+\indexentry{Dopplerjeva razširitev|hyperpage}{121}
+\indexentry{Laser!zgradba|hyperpage}{122}
+\indexentry{Brewstrovo okno|hyperpage}{122}
+\indexentry{Laser!argonski|hyperpage}{122}
+\indexentry{Ultravijolično valovanje|hyperpage}{122}
+\indexentry{Dopplerjeva razširitev|hyperpage}{122}
+\indexentry{Energijski nivoji!argon|hyperpage}{122}
+\indexentry{Laser!zgradba|hyperpage}{123}
+\indexentry{Brewstrovo okno|hyperpage}{123}
+\indexentry{Laser!CO$_2$|hyperpage}{124}
+\indexentry{Infrardeče valovanje|hyperpage}{124}
+\indexentry{Energijski nivoji!CO$_2$|hyperpage}{124}
+\indexentry{Dopplerjeva razširitev|hyperpage}{124}
+\indexentry{Laser!zgradba|hyperpage}{124}
+\indexentry{Uklonska mrežica|hyperpage}{124}
+\indexentry{Brewstrovo okno|hyperpage}{125}
+\indexentry{Laser!ekscimerni|hyperpage}{125}
+\indexentry{Laser!He-Ne|hyperpage}{125}
+\indexentry{Laser!argonski|hyperpage}{125}
+\indexentry{Laser!CO$_2$|hyperpage}{125}
+\indexentry{Laser!ekscimerni|hyperpage}{125}
+\indexentry{Ultravijolično valovanje|hyperpage}{126}
+\indexentry{Laser!Nd:YAG|hyperpage}{126}
+\indexentry{Infrardeče valovanje|hyperpage}{126}
+\indexentry{Iterbij|hyperpage}{126}
+\indexentry{Erbij|hyperpage}{126}
+\indexentry{Štirinivojski sistem|hyperpage}{127}
+\indexentry{Spektralna črta!homogena razširitev|hyperpage}{127}
+\indexentry{Energijski nivoji!Nd:YAG|hyperpage}{127}
+\indexentry{Laser!zgradba|hyperpage}{128}
+\indexentry{Črpanje!vzdolžno|hyperpage}{128}
+\indexentry{Fotona d.o.o.|hyperpage}{128}
+\indexentry{Laser!Nd:YAG|hyperpage}{128}
+\indexentry{Laser!Nd:steklo|hyperpage}{128}
+\indexentry{Laser!Ti:safir|hyperpage}{128}
+\indexentry{Laser!Nd:steklo|hyperpage}{129}
+\indexentry{Spektralna črta!nehomogena razširitev|hyperpage}{129}
+\indexentry{Laser!Ti:safir|hyperpage}{129}
+\indexentry{Energijski nivoji!Ti:safir|hyperpage}{129}
+\indexentry{Laser!organska barvila|hyperpage}{130}
+\indexentry{Uklonska mrežica|hyperpage}{131}
+\indexentry{Laser!vlakenski|hyperpage}{131}
+\indexentry{Optično vlakno|hyperpage}{131}
+\indexentry{Erbij|hyperpage}{131}
+\indexentry{Iterbij|hyperpage}{131}
+\indexentry{Infrardeče valovanje|hyperpage}{131}
+\indexentry{Faktor $M^2$|hyperpage}{131}
+\indexentry{Laser!zgradba|hyperpage}{132}
+\indexentry{Braggov odboj|hyperpage}{132}
+\indexentry{Laser!Ramanski|hyperpage}{132}
+\indexentry{Ramanovo sipanje!stimulirano|hyperpage}{132}
+\indexentry{Laser!polprevodniški|hyperpage}{133}
+\indexentry{Laser!diodni|hyperindexformat{\see {Laser, polprevodniški}}}{133}
+\indexentry{Črpanje|hyperpage}{133}
+\indexentry{Ultravijolično valovanje|hyperpage}{133}
+\indexentry{Polprevodnik|hyperpage}{133}
+\indexentry{Energijska reža|hyperpage}{133}
+\indexentry{Silicij|hyperpage}{133}
+\indexentry{Germanij|hyperpage}{133}
+\indexentry{GaAs|hyperpage}{133}
+\indexentry{GaP|hyperpage}{133}
+\indexentry{InAs|hyperpage}{133}
+\indexentry{InSb|hyperpage}{133}
+\indexentry{Gostota stanj|hyperpage}{134}
+\indexentry{Fermijeva energija|hyperpage}{134}
+\indexentry{Fermi-Diracova porazdelitev|hyperpage}{134}
+\indexentry{Polprevodnik!tip $n$|hyperpage}{135}
+\indexentry{Polprevodnik!tip $p$|hyperpage}{135}
+\indexentry{Kvazi-Fermijeva energija|hyperpage}{135}
+\indexentry{Ojačenje v polprevodnikih|hyperpage}{136}
+\indexentry{Fermijevo zlato pravilo|hyperpage}{136}
+\indexentry{Spoj $p$-$n$|hyperpage}{137}
+\indexentry{Črpanje|hyperpage}{137}
+\indexentry{Spoj $p$-$n$!{aktivno območje}|hyperpage}{138}
+\indexentry{Prag delovanja laserja|hyperpage}{138}
+\indexentry{GaAs|hyperpage}{138}
+\indexentry{Laser!zgradba|hyperpage}{138}
+\indexentry{Heterostruktura|hyperpage}{139}
+\indexentry{AlGaAs|hyperpage}{139}
+\indexentry{Infrardeče valovanje|hyperpage}{139}
+\indexentry{Braggov odboj|hyperpage}{140}
+\indexentry{Porazdeljena povratna sklopitev|hyperpage}{140}
+\indexentry{Laser!VCSEL|hyperpage}{140}
+\indexentry{Laser!s potencialno jamo|hyperpage}{140}
+\indexentry{Gostota stanj|hyperpage}{140}
+\indexentry{Svetleče diode|hyperpage}{141}
+\indexentry{LED|hyperindexformat{\see {Svetleče diode}}}{141}
+\indexentry{Ultravijolično valovanje|hyperpage}{141}
+\indexentry{Spoj $p$-$n$|hyperpage}{141}
+\indexentry{GaAsP|hyperpage}{141}
+\indexentry{Svetleče diode!OLED|hyperpage}{141}
+\indexentry{Optični vodnik|hyperpage}{142}
+\indexentry{Optično vlakno|hyperpage}{142}
+\indexentry{Optični vodnik!planparalelni|hyperpage}{142}
+\indexentry{Totalni odboj|hyperpage}{142}
+\indexentry{Lomni količnik|hyperpage}{142}
+\indexentry{Optični vodnik!sredica|hyperpage}{142}
+\indexentry{Optični vodnik!plašč|hyperpage}{142}
+\indexentry{Numerična odprtina|hyperpage}{142}
+\indexentry{Polarizacija!TE|hyperpage}{143}
+\indexentry{Polarizacija!TM|hyperpage}{143}
+\indexentry{Valovni vektor|hyperpage}{143}
+\indexentry{Optični vodnik!enorodovni|hyperpage}{143}
+\indexentry{Optično vlakno!enorodovno|hyperpage}{143}
+\indexentry{Hitrost valovanja!fazna|hyperpage}{143}
+\indexentry{Disperzija|hyperpage}{143}
+\indexentry{Hitrost valovanja!grupna|hyperpage}{143}
+\indexentry{Optični vodnik!lastni rodovi|hyperpage}{144}
+\indexentry{Optični vodnik!planparalelni|hyperpage}{144}
+\indexentry{Helmholtzeva enačba|hyperpage}{144}
+\indexentry{Optični vodnik!TE rodovi|hyperpage}{144}
+\indexentry{Valovno število|hyperpage}{144}
+\indexentry{Optični vodnik!sodi rodovi|hyperpage}{145}
+\indexentry{Sekularna enačba!sodi rodovi|hyperpage}{145}
+\indexentry{Optični vodnik!lihi rodovi|hyperpage}{145}
+\indexentry{Sekularna enačba!lihi rodovi|hyperpage}{145}
+\indexentry{Optični vodnik!enorodovni|hyperpage}{146}
+\indexentry{Optični vodnik!večrodovni|hyperpage}{146}
+\indexentry{Normirana frekvenca|hyperpage}{147}
+\indexentry{Optični vodnik!število rodov|hyperpage}{147}
+\indexentry{Optični vodnik!TM rodovi|hyperpage}{147}
+\indexentry{Sekularna enačba!TM rodovi|hyperpage}{147}
+\indexentry{Gostota energijskega toka|hyperpage}{147}

@@ -1,0 +1,78 @@
+%% Creator: Inkscape inkscape 0.92.5, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file '08_nl3.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{2291.26300049bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.28361979)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{08_nl3.pdf}}%
+    \put(0.00398176,0.05932476){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\omega_1$\end{tabular}}}}%
+    \put(0.04288379,0.00456691){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\omega_2 < \omega_1$\end{tabular}}}}%
+    \put(0.25814843,0.25821078){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\omega_1$\end{tabular}}}}%
+    \put(0.32559846,0.25941216){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\omega_2$\end{tabular}}}}%
+    \put(0.37291261,0.242426){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\omega_1 + \omega_2$\end{tabular}}}}%
+    \put(0.41032168,0.21409982){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\omega_1 - \omega_2$\end{tabular}}}}%
+    \put(0.41072508,0.18486506){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$2\omega_1$\end{tabular}}}}%
+    \put(0.41100686,0.15785266){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$2\omega_2$\end{tabular}}}}%
+    \put(0.41460476,0.13168761){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$0$\end{tabular}}}}%
+    \put(0.79540683,0.18345861){\color[rgb]{0,0,0}\rotatebox{91.02319197}{\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\omega_1$\end{tabular}}}}}%
+    \put(0.76055391,0.18320594){\color[rgb]{0,0,0}\rotatebox{88.97785848}{\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\omega_2$\end{tabular}}}}}%
+    \put(0.95451306,0.14030424){\color[rgb]{0,0,0}\rotatebox{89.58465701}{\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\omega_1 + \omega_2$\end{tabular}}}}}%
+    \put(0.6329409,0.13964185){\color[rgb]{0,0,0}\rotatebox{89.77861486}{\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\omega_1 - \omega_2$\end{tabular}}}}}%
+    \put(0.9908479,0.18321898){\color[rgb]{0,0,0}\rotatebox{90.23846023}{\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$2\omega_1$\end{tabular}}}}}%
+    \put(0.92497899,0.18331801){\color[rgb]{0,0,0}\rotatebox{90.5627738}{\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$2\omega_2$\end{tabular}}}}}%
+    \put(0.57281781,0.05867619){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$0$\end{tabular}}}}%
+    \put(0.15277556,0.15061883){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\chi^{(2)}$\end{tabular}}}}%
+    \put(0.96976858,0.05860442){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\omega$\end{tabular}}}}%
+    \put(-0.00122839,0.23705189){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}a)\end{tabular}}}}%
+    \put(0.52589188,0.23705189){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}b)\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

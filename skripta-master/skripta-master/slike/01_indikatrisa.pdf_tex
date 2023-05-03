@@ -1,0 +1,68 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file '01_indikatrisa.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{66.62474976bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.18847764)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{01_indikatrisa.pdf}}%
+    \put(0.75941546,1.06356385){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\bf{k}$}}}%
+    \put(0.88790268,0.51864471){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$y$}}}%
+    \put(-0.0033228,0.28571314){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$x$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{01_indikatrisa.pdf}}%
+    \put(0.19536928,0.30902343){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$n_1$}}}%
+    \put(0.74761277,0.51446561){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$n_2$}}}%
+    \put(0.43946827,1.05721615){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$n_3$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{01_indikatrisa.pdf}}%
+    \put(0.05481605,0.72290918){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$n_a$}}}%
+    \put(0.30550495,0.30282344){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$n_b$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{01_indikatrisa.pdf}}%
+    \put(0.29631995,0.57634669){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\bf{D}_a$}}}%
+    \put(0.38984063,0.39938907){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\bf{D}_b$}}}%
+    \put(0.35010233,1.10297198){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$z$}}}%
+  \end{picture}%
+\endgroup%

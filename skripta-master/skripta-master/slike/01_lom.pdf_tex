@@ -1,0 +1,93 @@
+%% Creator: Inkscape inkscape 0.92.5, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file '01_lom.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{792.10601807bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.4367644)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(-0.10651362,-0.27551078){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25653898\unitlength}\raggedright  \end{minipage}}}%
+    \put(0.07184929,-0.29246558){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l} \end{tabular}}}}%
+    \put(0.16782325,-0.60388706){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.10216528\unitlength}\raggedright  \end{minipage}}}%
+    \put(0.28165145,-0.25848371){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.67586189\unitlength}\raggedright  \end{minipage}}}%
+    \put(0.30476884,0.11613278){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}\textit{ }\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{01_lom.pdf}}%
+    \put(0.04474401,0.41141253){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathrm{Dielektrik}~1$\end{tabular}}}}%
+    \put(0.04474401,0.0095969){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathrm{Dielektrik}~2$\end{tabular}}}}%
+    \put(0.14752045,0.35403773){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{E}_{1}$\end{tabular}}}}%
+    \put(0.07248474,0.33473933){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{H}_{1}$\end{tabular}}}}%
+    \put(0.16876267,0.31877124){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{k}_{1}$\end{tabular}}}}%
+    \put(0.31335943,0.0712382){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{E}_{2}$\end{tabular}}}}%
+    \put(0.25657969,0.05801505){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{H}_{2}$\end{tabular}}}}%
+    \put(0.33037483,0.02516983){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{k}_{2}$\end{tabular}}}}%
+    \put(0.31486414,0.34851469){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{E}_{3}$\end{tabular}}}}%
+    \put(0.38953805,0.31340941){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{H}_{3}$\end{tabular}}}}%
+    \put(0.38967651,0.3644399){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{k}_{3}$\end{tabular}}}}%
+    \put(0.21110192,0.26119714){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\vartheta_1$\end{tabular}}}}%
+    \put(0.25489806,0.26080618){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\vartheta_1$\end{tabular}}}}%
+    \put(0.24868717,0.1072455){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\vartheta_2$\end{tabular}}}}%
+    \put(-0.00051776,0.41108935){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}a)\end{tabular}}}}%
+    \put(0.56622435,0.41141253){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathrm{Dielektrik}~1$\end{tabular}}}}%
+    \put(0.8239703,0.07800204){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{E}_{2}$\end{tabular}}}}%
+    \put(0.78780218,0.03224029){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{H}_{2}$\end{tabular}}}}%
+    \put(0.85108414,0.02525157){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{k}_{2}$\end{tabular}}}}%
+    \put(0.56622435,0.00966707){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathrm{Dielektrik}~2$\end{tabular}}}}%
+    \put(0.68966371,0.35453816){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{E}_{1}$\end{tabular}}}}%
+    \put(0.61799612,0.31574242){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{H}_{1}$\end{tabular}}}}%
+    \put(0.68875188,0.32060005){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{k}_{1}$\end{tabular}}}}%
+    \put(0.82755507,0.38522577){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{E}_{3}$\end{tabular}}}}%
+    \put(0.8924757,0.33012503){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{H}_{3}$\end{tabular}}}}%
+    \put(0.9186686,0.3678948){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\mathbf{k}_{3}$\end{tabular}}}}%
+    \put(0.73006279,0.26119674){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\vartheta_1$\end{tabular}}}}%
+    \put(0.77385888,0.26080578){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\vartheta_1$\end{tabular}}}}%
+    \put(0.76764802,0.1072451){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\vartheta_2$\end{tabular}}}}%
+    \put(0.52190985,0.41108935){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}b)\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
