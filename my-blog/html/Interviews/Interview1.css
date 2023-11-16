@@ -1,0 +1,81 @@
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: inherit;
+    /* filter: blur(2px); */
+}
+
+body {
+    font-family: 'Spectral', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('images/Interview1/IMG_0740.jpg'); 
+    background-size: 60%;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.content {
+    max-width: 80%; 
+    min-width: 300px;
+    text-align: center; 
+    font-family: 'Spectral', serif; 
+    font-size: 18px;
+    color: antiquewhite;
+    /* font-weight: 200; */
+
+}
+
+
+h1 {
+    font-family: 'Lobster', sans-serif;
+    font-size: 72px;
+    color: antiquewhite;
+}
+
+
+.container {
+    background-color: rgba(150, 150, 150, 0.05);
+    padding: 40px;
+    margin: 50px;
+    border-radius: 30px;
+    backdrop-filter: blur(10px);
+    position: relative;
+    overflow: hidden;
+}
+
+.container:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: inherit;
+    filter: blur(1px);
+    z-index: -1;
+}
+
+
+.Interview1 {
+    font-family: 'Spectral', serif;
+}
+
+.Interview1 a {
+    color: antiquewhite; 
+    text-decoration:color-mix(in hsl longer hue, color percentage, color percentage);
+    font-weight: bold; 
+    font-size: 18px;
+}
+
+.Interview1 a:hover {
+    color: antiquewhite;
+    font-size: 28px;
+}

@@ -1,24 +1,28 @@
-body {
+/* body {
     font-family: 'Spectral', serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('IMG_0728.jpg'); 
+    background-image: url('images/IMG_0728.jpg'); 
     background-size: cover; 
     background-repeat: no-repeat; 
     background-attachment: fixed;
 }
 
 .content {
-    max-width: 80%; 
+    max-width: 80%;
     min-width: 300px;
-    text-align: center; 
-    font-family: 'Spectral', serif; 
+    text-align: center;
+    font-family: 'Spectral', serif;
     font-size: 18px;
     color: antiquewhite;
-    /* font-weight: 200; */
-
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    z-index: 1000;
 }
 
 
@@ -28,22 +32,12 @@ h1 {
     color: antiquewhite;
 }
 
-/* .container {
-    background-color: rgba(150, 150, 150, 0.05);
-    backdrop-filter: blur(5px);
-    padding: 120px;
-    margin: 50px;
-    padding: 20px;
-    border-radius: 20px;
-} */
-
 .container {
     background-color: rgba(150, 150, 150, 0.05);
-    padding: 40px; /* Adjust padding as needed */
-    margin: 50px; /* Adjust margin as needed */
-    border-radius: 30px; /* Rounded corners to make the edges less sharp */
-    backdrop-filter: blur(3px); /* Initial blur of 5px */
-    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); Optional: Add a shadow for more contrast */
+    padding: 40px;
+    margin: 50px;
+    border-radius: 30px;
+    backdrop-filter: blur(3px);
     position: relative;
     overflow: hidden;
 }
@@ -58,4 +52,47 @@ h1 {
     background: inherit;
     filter: blur(1px);
     z-index: -1;
+}
+
+
+.Interview1 {
+    font-family: 'Spectral', serif;
+}
+
+.Interview1 a {
+    color: antiquewhite; 
+    text-decoration:color-mix(in hsl longer hue, color percentage, color percentage);
+    font-weight: bold; 
+    font-size: 18px;
+}
+
+.Interview1 a:hover {
+    color: antiquewhite;
+    font-size: 28px;
+} */
+
+
+/* ------------------------------------------------------------ */
+.flexbox-container {
+    display: flex;
+}
+
+.flexbox-item {
+    width: 200px;
+    margin: 10px;
+    border: 3px solid #333;
+    /* background-image: url('images/IMG_0728.jpg'); */
+    /* background-color: antiquewhite; */
+}
+
+.flexbox-item-1 {
+    min-height: 100px;
+}
+
+.flexbox-item-2 {
+    min-height: 200px;
+}
+
+.flexbox-item-3 {
+    min-height: 300px;
 }
