@@ -73,7 +73,7 @@ h1 {
 
 
 /* ------------------------------------------------------------ */
-.flexbox-container {
+/* .flexbox-container {
     display: flex;
 }
 
@@ -82,7 +82,7 @@ h1 {
     margin: 10px;
     border: 3px solid #333;
     /* background-image: url('images/IMG_0728.jpg'); */
-    /* background-color: antiquewhite; */
+    /* background-color: antiquewhite; 
 }
 
 .flexbox-item-1 {
@@ -95,4 +95,84 @@ h1 {
 
 .flexbox-item-3 {
     min-height: 300px;
+} */
+
+/* ------------------------------------------- */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.image-box {
+    position: relative;
+    margin: 20px;
+    overflow: hidden;
+    min-width: 300px; /* Minimum width of 200px */
+    max-width: 20vw;
+    border-radius: 10px;
+}
+
+.image-box img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    aspect-ratio: original;
+    transition: 0.3s ease-in-out;
+}
+
+.image-box img:hover {
+    filter: opacity(0.9) blur(5px) ; /* Change color here */
+    transform: scale(1.1);
+}
+
+.image-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Spectral', serif; /* Font family */
+    font-size: 3vw; 
+    font-style: italic;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.image-box:hover .image-title {
+    opacity: 1;
 }
