@@ -1,0 +1,5 @@
+Name;Latitude;Longitude;Day;Color
+Best Point Suites;41,0041;28,9816;All Days;Gray
+Spice Bazaar (Mısır Çarşısı);41,0165;28,9708;Tuesday;Blue
+Galata Bridge;41,0195;28,9710;Tuesday;Blue
+Emek Börek;41,0122;28,9635;Tuesday;Red

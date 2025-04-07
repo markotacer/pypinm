@@ -1,0 +1,6 @@
+Name;Latitude;Longitude;Day;Color
+Best Point Suites;41,0041;28,9816;All Days;Gray
+Sultanahmet Square;41,0051;28,9763;Saturday;Blue
+Basilica Cistern;41,0084;28,9779;Saturday;Blue
+Tarihi Sahin Lokantasi;41,0042;28,9774;Saturday;Blue
+

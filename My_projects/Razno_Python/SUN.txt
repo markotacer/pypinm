@@ -1,0 +1,10 @@
+Name;Latitude;Longitude;Day;Color
+Best Point Suites;41,0041;28,9816;All Days;Gray
+Blue Mosque (Sultan Ahmet Camii);41,0055;28,9768;Sunday;Blue
+Hagia Sophia;41,0086;28,9802;Sunday;Blue
+Topkapi Palace;41,0115;28,9831;Sunday;Blue
+Grand Bazaar (Kapalı Çarşı);41,0106;28,9689;Sunday;Blue
+Galata Simitçisi;41,0296;28,9733;Sunday;Red
+Tarihi Kalkanoglu Pilavcisi;41,0290;28,9740;Sunday;Red
+Narmanli Han;41,0325;28,9751;Sunday;Red
+Karaköy Muhallebicisi;41,0245;28,9732;Sunday;Red

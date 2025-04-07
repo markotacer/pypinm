@@ -1,0 +1,66 @@
+/* Reset some default browser styles */
+body, h1, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background: #FFF8F3;
+    color: #405D72;
+}
+
+header {
+    background: #FFF8F3;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 56pt;
+    text-align: left;
+    padding-left: 10px;
+    line-height: 1.2;
+    font-family: "Crushed", sans-serif;
+}
+
+main {
+    margin-top: 20px;
+}
+
+.button-container {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav-link {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-decoration: none; /* Removes underline from links */
+}
+
+.nav-button {
+    display: block;
+    width: calc(100% - 20px); /* Full width minus the horizontal padding */
+    max-width: 300px; /* Limit the width for better appearance */
+    padding: 15px;
+    margin: 10px 0; /* 10px margin top and bottom */
+    font-size: 24px;
+    color: #fff;
+    background: #758694;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    transition: opacity 0.3s, font-size 0.3s;
+}
+
+.nav-button:hover {
+    background: #405D72;
+    font-size: 28px;
+}

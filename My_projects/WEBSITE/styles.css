@@ -1,0 +1,62 @@
+/* styles.css */
+
+/* Common styles */
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif; /* Use Roboto font */
+}
+
+.navbar {
+    background-color: white; /* Changed background color to white */
+    height: 60px; /* Defined height */
+    width: 100%;
+    position: fixed;
+    top: 0; /* Position navbar at the bottom */
+    border-bottom: 2px solid black; /* Add a 2px wide black line on the top */
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 100%; /* Align items vertically */
+    display: flex; /* Make items horizontal in computer mode */
+    justify-content: space-around; /* Equally spread items */
+    align-items: center;
+}
+
+
+
+.navbar ul li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase; /* Transform text to all caps */
+    font-size: 20px; /* Adjust font size */
+    font-style: italic;
+    padding: 10px 30px; /* Adjust padding */
+}
+
+
+
+
+/* Media query for mobile devices */
+@media only screen and (max-width: 600px) {
+    .navbar {
+        height: auto; /* Reset height */
+    }
+
+    .navbar ul {
+        flex-direction: column; /* Stack items vertically */
+        align-items: center;
+    }
+
+    .navbar ul li {
+        display: block;
+        margin-bottom: 10px; /* Add spacing between items */
+    }
+
+    .navbar ul li a {
+        padding: 10px; /* Adjust padding for better touch interaction */
+    }
+}
